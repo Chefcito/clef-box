@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Chefcito/clef-box-ghpages/static/css/main.3164128a.chunk.css",
-    "main.js": "/Chefcito/clef-box-ghpages/static/js/main.1ee09832.chunk.js",
-    "main.js.map": "/Chefcito/clef-box-ghpages/static/js/main.1ee09832.chunk.js.map",
-    "runtime~main.js": "/Chefcito/clef-box-ghpages/static/js/runtime~main.bf3b8202.js",
-    "runtime~main.js.map": "/Chefcito/clef-box-ghpages/static/js/runtime~main.bf3b8202.js.map",
-    "static/js/2.16e115f4.chunk.js": "/Chefcito/clef-box-ghpages/static/js/2.16e115f4.chunk.js",
-    "static/js/2.16e115f4.chunk.js.map": "/Chefcito/clef-box-ghpages/static/js/2.16e115f4.chunk.js.map",
-    "index.html": "/Chefcito/clef-box-ghpages/index.html",
-    "precache-manifest.aaff8bd1fdcda6dd222bbbebabde609f.js": "/Chefcito/clef-box-ghpages/precache-manifest.aaff8bd1fdcda6dd222bbbebabde609f.js",
-    "service-worker.js": "/Chefcito/clef-box-ghpages/service-worker.js",
-    "static/css/main.3164128a.chunk.css.map": "/Chefcito/clef-box-ghpages/static/css/main.3164128a.chunk.css.map",
-    "static/media/logo.png": "/Chefcito/clef-box-ghpages/static/media/logo.d953a7a3.png"
+    "main.css": "/Chefcito/clef-box/static/css/main.3164128a.chunk.css",
+    "main.js": "/Chefcito/clef-box/static/js/main.eca40b4c.chunk.js",
+    "main.js.map": "/Chefcito/clef-box/static/js/main.eca40b4c.chunk.js.map",
+    "runtime~main.js": "/Chefcito/clef-box/static/js/runtime~main.37ebb299.js",
+    "runtime~main.js.map": "/Chefcito/clef-box/static/js/runtime~main.37ebb299.js.map",
+    "static/js/2.72a0b5cb.chunk.js": "/Chefcito/clef-box/static/js/2.72a0b5cb.chunk.js",
+    "static/js/2.72a0b5cb.chunk.js.map": "/Chefcito/clef-box/static/js/2.72a0b5cb.chunk.js.map",
+    "index.html": "/Chefcito/clef-box/index.html",
+    "precache-manifest.765dc4d5bd8cc37f9b44d0a867380f09.js": "/Chefcito/clef-box/precache-manifest.765dc4d5bd8cc37f9b44d0a867380f09.js",
+    "service-worker.js": "/Chefcito/clef-box/service-worker.js",
+    "static/css/main.3164128a.chunk.css.map": "/Chefcito/clef-box/static/css/main.3164128a.chunk.css.map",
+    "static/media/logo.png": "/Chefcito/clef-box/static/media/logo.d953a7a3.png"
   }
 }
