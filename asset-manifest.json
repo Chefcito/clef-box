@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Chefcito/clef-box/static/css/main.3164128a.chunk.css",
-    "main.js": "/Chefcito/clef-box/static/js/main.eca40b4c.chunk.js",
-    "main.js.map": "/Chefcito/clef-box/static/js/main.eca40b4c.chunk.js.map",
-    "runtime~main.js": "/Chefcito/clef-box/static/js/runtime~main.37ebb299.js",
-    "runtime~main.js.map": "/Chefcito/clef-box/static/js/runtime~main.37ebb299.js.map",
-    "static/js/2.72a0b5cb.chunk.js": "/Chefcito/clef-box/static/js/2.72a0b5cb.chunk.js",
-    "static/js/2.72a0b5cb.chunk.js.map": "/Chefcito/clef-box/static/js/2.72a0b5cb.chunk.js.map",
-    "index.html": "/Chefcito/clef-box/index.html",
-    "precache-manifest.765dc4d5bd8cc37f9b44d0a867380f09.js": "/Chefcito/clef-box/precache-manifest.765dc4d5bd8cc37f9b44d0a867380f09.js",
-    "service-worker.js": "/Chefcito/clef-box/service-worker.js",
-    "static/css/main.3164128a.chunk.css.map": "/Chefcito/clef-box/static/css/main.3164128a.chunk.css.map",
-    "static/media/logo.png": "/Chefcito/clef-box/static/media/logo.d953a7a3.png"
+    "main.css": "/clef-box/static/css/main.3164128a.chunk.css",
+    "main.js": "/clef-box/static/js/main.dfc4e8d5.chunk.js",
+    "main.js.map": "/clef-box/static/js/main.dfc4e8d5.chunk.js.map",
+    "runtime~main.js": "/clef-box/static/js/runtime~main.4e732cc2.js",
+    "runtime~main.js.map": "/clef-box/static/js/runtime~main.4e732cc2.js.map",
+    "static/js/2.3e8573c7.chunk.js": "/clef-box/static/js/2.3e8573c7.chunk.js",
+    "static/js/2.3e8573c7.chunk.js.map": "/clef-box/static/js/2.3e8573c7.chunk.js.map",
+    "index.html": "/clef-box/index.html",
+    "precache-manifest.0f554a486572b63869718c7c07f2a66b.js": "/clef-box/precache-manifest.0f554a486572b63869718c7c07f2a66b.js",
+    "service-worker.js": "/clef-box/service-worker.js",
+    "static/css/main.3164128a.chunk.css.map": "/clef-box/static/css/main.3164128a.chunk.css.map",
+    "static/media/logo.png": "/clef-box/static/media/logo.d953a7a3.png"
   }
 }
