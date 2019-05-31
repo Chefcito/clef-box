@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Open+Sans:300,400,700&display=swap');
+
+// Variables
+@import '_variables';
+
+// Components
+@import './components/Login/login';
+@import './components/SignUp/sign-up';
+@import './components/NavBar/nav-bar';
+
+body {
+    margin: 0;
+}
