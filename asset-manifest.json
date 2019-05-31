@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/clef-box/static/css/main.3164128a.chunk.css",
-    "main.js": "/clef-box/static/js/main.dfc4e8d5.chunk.js",
-    "main.js.map": "/clef-box/static/js/main.dfc4e8d5.chunk.js.map",
+    "main.js": "/clef-box/static/js/main.7208b8e3.chunk.js",
+    "main.js.map": "/clef-box/static/js/main.7208b8e3.chunk.js.map",
     "runtime~main.js": "/clef-box/static/js/runtime~main.4e732cc2.js",
     "runtime~main.js.map": "/clef-box/static/js/runtime~main.4e732cc2.js.map",
     "static/js/2.3e8573c7.chunk.js": "/clef-box/static/js/2.3e8573c7.chunk.js",
     "static/js/2.3e8573c7.chunk.js.map": "/clef-box/static/js/2.3e8573c7.chunk.js.map",
     "index.html": "/clef-box/index.html",
-    "precache-manifest.0f554a486572b63869718c7c07f2a66b.js": "/clef-box/precache-manifest.0f554a486572b63869718c7c07f2a66b.js",
+    "precache-manifest.d336f5cd56c70a31366d3569d81a260e.js": "/clef-box/precache-manifest.d336f5cd56c70a31366d3569d81a260e.js",
     "service-worker.js": "/clef-box/service-worker.js",
     "static/css/main.3164128a.chunk.css.map": "/clef-box/static/css/main.3164128a.chunk.css.map",
     "static/media/logo.png": "/clef-box/static/media/logo.d953a7a3.png"

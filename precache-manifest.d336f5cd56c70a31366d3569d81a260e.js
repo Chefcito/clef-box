@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf55dee628ad1c358a1ec868d9bc6cd9",
+    "revision": "a65ed68acdb6dd677a7ec73e87b2a708",
     "url": "/clef-box/index.html"
   },
   {
-    "revision": "61e522225804d2e5a209",
+    "revision": "13ab763cd50655045dc3",
     "url": "/clef-box/static/css/main.3164128a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clef-box/static/js/2.3e8573c7.chunk.js"
   },
   {
-    "revision": "61e522225804d2e5a209",
-    "url": "/clef-box/static/js/main.dfc4e8d5.chunk.js"
+    "revision": "13ab763cd50655045dc3",
+    "url": "/clef-box/static/js/main.7208b8e3.chunk.js"
   },
   {
     "revision": "05d2869fcfeedfc9a31f",
