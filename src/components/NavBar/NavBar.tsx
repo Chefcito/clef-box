@@ -22,7 +22,7 @@ const NavBar = () => {
                 <h2 className="nav-bar__items__link__h2">Mi Perfil</h2>
             </Link>
 
-            <Link className="nav-bar__items__link" to="/">
+            <Link className="nav-bar__items__link" to="/Login">
                 <h2 className="nav-bar__items__link__h2">Salir</h2>
             </Link>
         </div>

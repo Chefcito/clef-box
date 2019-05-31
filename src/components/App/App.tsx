@@ -14,7 +14,7 @@ class App extends Component {
   render() {
     return (
       <div className="app">
-        <Router>
+        <Router basename="/clef-box">
           <Switch>   
             <Route path="/Login" component={ Login } exact />
             <Route path="/SignUp" component={ SignUp } exact />

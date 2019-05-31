@@ -2,11 +2,13 @@
   "name": "clef-box",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chefcito.github.io/clef-box/",
   "dependencies": {
     "@types/jest": "24.0.13",
     "@types/node": "12.0.4",
     "@types/react-router-dom": "^4.3.3",
     "firebase": "^6.1.0",
+    "gh-pages": "^2.0.1",
     "mobx": "^5.9.4",
     "mobx-react": "^6.0.2",
     "node-sass": "^4.12.0",
@@ -18,6 +20,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
