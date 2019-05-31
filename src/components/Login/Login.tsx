@@ -1,9 +1,22 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
-class Login extends Component {
+import api from "../../utils/api";
+
+class Login extends React.Component<{}, any> {
   constructor(props: {}){
     super(props);
+    this.state = {
+      email : '',
+      password : '',
+    }
+
+    this.signIn = this.signIn.bind(this);
+  }
+
+  signIn() {
+    api.signIn(this.state.email, this.state.password);
+    window.location.assign("/");
   }
 
   render() {
@@ -20,14 +33,22 @@ class Login extends Component {
                 <h2 className="login__container__form__title">Iniciar Sesión</h2>
                 <div className="login__container__form__email">
                     <p>Email</p>
-                    <input type="text"/>
+                    <input type="text" 
+                    placeholder="Correo electrónico" 
+                    onChange={(elem) => {
+                      this.setState({surname: elem.target.value + ''});
+                    }} />
                 </div>
                 <div className="login__container__form__password">
                     <p>Contraseña</p>
-                    <input type="password"/>
+                    <input  type="password" 
+                    placeholder="Contraseña" 
+                    onChange={(elem) => {
+                      this.setState({password: elem.target.value + ''});
+                    }}/>
                 </div>
 
-                <button className="login__container__form__button">Ingresar</button>
+                <button className="login__container__form__button" onClick={this.signIn}>Ingresar</button>
             </div>
         </div>
 
